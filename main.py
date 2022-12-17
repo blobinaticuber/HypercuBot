@@ -24,8 +24,8 @@ async def on_message(message):
     if message.content.startswith("&commands"):
       await text.command_text(message)
       
-    elif message.content.startswith("&randomfact"):
-      await (text.random_fact(message))
+    elif message.content.startswith("&funfact"):
+      await (text.fun_fact(message))
       
     elif message.content.startswith("&help"):
       stickers.reset()

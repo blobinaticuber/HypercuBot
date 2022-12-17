@@ -1,0 +1,16 @@
+The 3^4 has 216 stickers
+The 3^4 has 8 1c pieces, 24 2c pieces, 32 3c pieces, and 16 4c pieces
+The formula to calculate the number of states for the 3x3x3x3 is (24!x32!)&2 x 16!&2 x 2^23 x (3!)^31 x 3 x (4!&2)^15 x 4
+3^4 is a shorter way of writing 3x3x3x3
+Hyperspeedcube is a very cool program 😎
+Melinda's Physical 2x2x2x2 is a real puzzle that you can play with that works just* like a 2x2x2x2
+The 4th dimension in hypercubing programs is represented as inwards vs outwards, due to the projection
+Many standard 3x3x3 methods can be scaled up and used on the 3x3x3x3, such as Roux and CFOP
+There are 6 platonic solids in 4D: Simplex, Tesseract, 16-cell, 24-cell, 120-cell, 600-cell
+During 2022, Grant S made 4 new physical 4D puzzles
+During 2022, the 3^4 speedsolving record was lowered by over 6 minutes, thanks to the Hyperspeedcube program's piece filters and keyboard controls
+RKT is a technique that lets you manipulate a single cell of the 3^4 like a 3^3
+There are theoretical designs for physical simplex, and many types of hypercuboids
+In 5D, Double RKT lets you manipulate a side like a cube by using RKT to manipulate that side like a tesseract
+The first person in the 2x2x2x2 Hall Of Fame was Bob Hearn
+The Hall Of Fame for 3^4 solutions was closed on December 7th, 2022 when it reached 500 entries
